@@ -23,3 +23,14 @@ Please choose a different project name.
 ```
 % npx create-react-app reactpractice 
 ```
+
+### React アプリ実行
+下記コマンドを実行
+```
+% cd reactpractice
+% npm start
+```
+Web ブラウザから下記アドレスにアクセス
+```
+http://localhost:3000/
+```
